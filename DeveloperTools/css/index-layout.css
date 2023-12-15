@@ -13,7 +13,8 @@
     }
 
     .card {
-        margin-bottom: 20px; /* 添加下方间隔 */
+        margin-bottom: 30px; /* 添加下方间隔 */
+        width: 500px;
     }
 }
 
